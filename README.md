@@ -1,5 +1,5 @@
 
-  # Redesign Herafona Website (Copy)
+  # Redesign Herafona Website
 
   This is a code bundle for Redesign Herafona Website (Copy). The original project is available at https://www.figma.com/design/uu4iYcM8JrJClJrd9Xc7Ry/Redesign-Herafona-Website--Copy-.
 
